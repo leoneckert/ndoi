@@ -1,3 +1,3 @@
-# ndoi
+# Nomadic Department of the Interior
 
-[work](work)
+[>>> Page](https://leoneckert.github.io/ndoi/work/)
